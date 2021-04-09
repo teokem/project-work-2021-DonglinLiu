@@ -7,7 +7,7 @@ vae_z.txt is the latent space acquired by VAE model.
 cvae_z.txt is the latent space acquired by CVAE model.
 
 # Instructions for running the notebook
-1. install miniconda3.
+1. install [miniconda3](https://docs.conda.io/en/latest/miniconda.html).
 2. In the terminal, navigate to the folder you downloaded from GitHub
 3. Creating a new conda virtual environment for project.
   ```conda env create --name NAME --environment.yml```
