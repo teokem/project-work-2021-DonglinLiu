@@ -1,4 +1,4 @@
-# project-work-2021-DonglinLiu
+# Abstract
 project-work-2021-DonglinLiu created by GitHub Classroom
 
 This project is about to show how conditional variational autoencoder(CVAE) works and how to use it for anamoly detection.  
