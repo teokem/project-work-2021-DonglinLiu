@@ -10,7 +10,7 @@ cvae_z.txt is test dataset in latent space acquired by CVAE model.
 1. install [miniconda3](https://docs.conda.io/en/latest/miniconda.html).
 2. In the terminal, navigate to the folder you downloaded from GitHub
 3. Creating a new conda virtual environment for project.
-  ```conda env create --name NAME --environment.yml```
-5. Actiating the virtual environment and run jupyter lab.
-  ```conda activate NAME```
-  ```conda activate jupyter-lab```
+  ```conda env create -f environment.yml```   
+5. Actiating the virtual environment and run jupyter lab.   
+  ```source activate tf_2```   
+  ```conda activate jupyter-lab```   
