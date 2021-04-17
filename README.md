@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/351414777.svg)](https://zenodo.org/badge/latestdoi/351414777)
 # Abstract
 This project an introduction tutorial for showing how conditional variational autoencoder(CVAE) works and how to use it for anamoly detection.  
 There's no need to train the model if you don't want, the result data has been saved in text files.  
