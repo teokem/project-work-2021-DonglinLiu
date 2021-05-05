@@ -1,0 +1,11 @@
+Thank you for the valuable comments from the peer review!
+
+I made the following changes in the Jupiter notebook and also the structure of the project
+
+1) For plots:
+   i) I changed the figure size to 89mm for one column and 183mm for two columns.
+   ii) Saving the result figures to file figure.
+   iii) Add labels to the figures.
+   iv) Change the font size for some figures.
+2) Adding function to save the generated data by pandas
+3) Simplify the environment list
